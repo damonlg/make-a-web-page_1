@@ -1,0 +1,91 @@
+
+body {
+	padding: 20px 10px;
+	font-family: Verdana;
+	max-width: 2000px;
+	margin: 0 auto; 
+	font-size: 1.4em;
+}
+
+h1 {
+	
+	font-size: 40px;
+	color: blue;
+	font-family: Impact;
+
+
+}
+
+h2 {
+	text-align: center;
+	color: blue;
+}
+.IC {
+	background-color: rgb(116, 125, 147);
+	border-radius: 20px;
+	color: white;
+	padding: 10px;
+	margin: 10px auto;
+}
+
+.innerbox {
+	background-color: rgb(234, 168, 46);
+	border-radius: 10px;
+	color: white;
+	
+	margin: 5px auto;
+}
+.concept {
+	background-color: #FFFFFF;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: black;
+	
+
+}
+
+.title {
+	font-size: 28px;
+	margin: 8px;
+	text-align: center;
+	color: #294860;
+}
+
+.content {
+	font-weight: lighter;
+	margin: 6px;
+}
+
+.mtitle {
+	font-weight: bold;
+
+}
+
+ul {
+	list-style-type: none; /* this removes the bullets that show up by default in unordered lists */
+}
+/*
+Experimenting with image
+.app	{
+	display: flex;
+}
+.screenshot {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	
+	box-sizing: border-box;
+	width: 100px;
+
+		max-width: 460px;
+		float: right;
+		
+}
+
+.pict {
+	width: 100px;
+	heigh:52px;
+	float: right;
+
+}*/
